@@ -1,0 +1,4 @@
+R5T.T0037.X001 - Extensions providing common values for ICodeDirectoryName and other code file system component extension method bases (like ICodeDirectoryName.Classes()).
+
+Goals
+
