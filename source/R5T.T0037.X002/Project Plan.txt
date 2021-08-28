@@ -1,0 +1,4 @@
+R5T.T0037.X001 - Empty extension method base related extensions for ICodeDirectoryName and other code file system component extension method bases.
+
+Goals
+

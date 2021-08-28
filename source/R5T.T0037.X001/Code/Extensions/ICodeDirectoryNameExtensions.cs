@@ -6,11 +6,16 @@ using R5T.T0037.X001;
 
 namespace System
 {
-    public static class CodeDirectoryNameExtensions
+    public static class ICodeDirectoryNameExtensions
     {
         public static string Classes(this ICodeDirectoryName _)
         {
             return CodeDirectoryNames.Classes;
+        }
+
+        public static string Code(this ICodeDirectoryName _)
+        {
+            return CodeDirectoryNames.Code;
         }
 
         public static string Constants(this ICodeDirectoryName _)
