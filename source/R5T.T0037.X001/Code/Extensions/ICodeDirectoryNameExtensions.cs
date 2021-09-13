@@ -32,5 +32,10 @@ namespace System
         {
             return CodeDirectoryNames.Interfaces;
         }
+
+        public static string Source(this ICodeDirectoryName _)
+        {
+            return CodeDirectoryNames.Source;
+        }
     }
 }

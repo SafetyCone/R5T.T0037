@@ -12,5 +12,20 @@ namespace System
         {
             return CodeDirectoryNames.Bases;
         }
+
+        public static string Definitions(this ICodeDirectoryName _)
+        {
+            return CodeDirectoryNames.Definitions;
+        }
+
+        public static string Implementations(this ICodeDirectoryName _)
+        {
+            return CodeDirectoryNames.Implementations;
+        }
+
+        public static string Services(this ICodeDirectoryName _)
+        {
+            return CodeDirectoryNames.Services;
+        }
     }
 }
