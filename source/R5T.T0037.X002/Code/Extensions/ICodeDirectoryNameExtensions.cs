@@ -8,6 +8,11 @@ namespace System
 {
     public static class ICodeDirectoryNameExtensions
     {
+        public static string Aggregations(this ICodeDirectoryName _)
+        {
+            return CodeDirectoryNames.Aggregations;
+        }
+
         public static string Bases(this ICodeDirectoryName _)
         {
             return CodeDirectoryNames.Bases;
