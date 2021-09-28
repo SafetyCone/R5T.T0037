@@ -1,4 +1,4 @@
-R5T.T0037.X002 -  Extensions providing service- and base-related values to ICodeDirectoryName and other code file system component extension method bases.
+R5T.T0037.X002 - Extensions providing custom (service- and base-related, and general but not Rivet-specific) values to ICodeDirectoryName and other code file system component extension method bases.
 
 Goals
 
