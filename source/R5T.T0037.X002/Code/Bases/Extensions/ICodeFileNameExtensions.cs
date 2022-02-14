@@ -17,10 +17,5 @@ namespace System
         {
             return CodeFileNames.HostStartup;
         }
-
-        public static string Instances(this ICodeFileName _)
-        {
-            return CodeFileNames.Instances;
-        }
     }
 }
